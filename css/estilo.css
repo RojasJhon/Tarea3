@@ -1,0 +1,142 @@
+.fondo{
+    background-color: rgb(53, 252, 255);
+    padding: 5px;
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows:  auto auto auto;
+
+}
+.principal1{
+    background-color: rgb(255, 111, 0);
+    margin: 5px;
+    border-style: dashed;
+    border-color: rgb(11, 1, 74);
+    font-size: 40px;
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-template-rows: auto auto auto auto;
+}
+.cuadro{
+    background-color: rgb(50, 253, 18);
+    margin: 3px;
+    border-style: dashed;
+    border-color: rgb(10, 50, 1);
+    font-size: 40px;
+}
+.cuadro1{
+    background-color: rgb(0, 255, 38);
+    margin: 3px;
+    border-style: dashed;
+    border-color: rgb(10, 50, 1);
+    font-size: 40px;
+    grid-column: 1/6;
+}
+.cuadro2{
+    background-color: rgb(0, 255, 38);
+    margin: 3px;
+    border-style: dashed;
+    border-color: rgb(10, 50, 1);
+    font-size: 40px;
+    grid-column: 1/4;
+}
+.cuadro5{
+    background-color: rgb(0, 255, 38);
+    margin: 3px;
+    border-style: dashed;
+    border-color: rgb(10, 50, 1);
+    font-size: 40px;
+    grid-column: 1/3;
+}
+.cuadro6{
+    background-color: rgb(0, 255, 38);
+    margin: 3px;
+    border-style: dashed;
+    border-color: rgb(10, 50, 1);
+    font-size: 40px;
+    grid-column: 3/6;
+}
+.cuadro7{
+    background-color: rgb(0, 255, 38);
+    margin: 3px;
+    border-style: dashed;
+    border-color: rgb(10, 50, 1);
+    font-size: 40px;
+    grid-column: 1/4;
+    grid-row: 4/6;
+}
+.cuadro8{
+    background-color: rgb(0, 255, 38);
+    margin: 3px;
+    border-style: dashed;
+    border-color: rgb(10, 50, 1);
+    font-size: 40px;
+    grid-column: 4/6;
+
+}
+.cuadro9{
+    background-color: rgb(0, 255, 38);
+    margin: 3px;
+    border-style: dashed;
+    border-color: rgb(10, 50, 1);
+    font-size: 40px;
+    grid-column: 4/6;
+}
+/*--------------------------------------*/
+.principal2{
+    background-color: rgb(244, 252, 20);
+    margin: 5px;
+    border-style: dashed;
+    border-color: antiquewhite;
+    font-size: 40px;
+    display: flex;
+    flex: auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.caja1{
+    background-color: rgb(18, 8, 157);
+    margin: 5px;
+    border-style: dashed;
+    border-color: rgb(3, 3, 3);
+    width: 295px;
+    height: 250px;
+}
+.caja{
+    background-color: rgb(18, 8, 157);
+    margin: 5px;
+    border-style: dashed;
+    border-color: rgb(8, 8, 8);
+    width: 700px;
+    height: 250px;
+    
+}
+.caja11{
+    background-color: rgb(46, 255, 248);
+    margin: 10px;
+    border-style: dashed;
+    border-color: rgb(46, 27, 197);
+    width: 670px;
+    height: 100px;
+    
+}
+.caja12{
+    background-color: rgb(46, 255, 248);
+    margin: 10px;
+    border-style: dashed;
+    border-color: rgb(80, 41, 219);
+    width: 325px;
+    height: 100px;
+    float: left;
+    display: flex;
+    flex: auto;
+    
+}
+/*---------------------*/
+.principal3{
+    background-color: rgb(42, 255, 4);
+    margin: 3px;
+    border-style: dashed;
+    border-color: rgb(21, 21, 21);
+    font-size: 40px;
+}
+
